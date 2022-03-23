@@ -1,0 +1,1 @@
+The code.py file consists training code for submitted model.
